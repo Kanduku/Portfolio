@@ -24,11 +24,11 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Sahil Rawat",
+  name: "KANDUKURU NAGENDRA KUMAR",
   title: "Web Designer",
-  email: "sahilrawat21021663@gmail.com",
-  gitHub: "https://github.com/Sahil-799",
-  linkedIn: "https://www.linkedin.com/in/sahil-rawat-989454202/",
+  email: "kandukurunagendrakumar@gmail.com",
+  gitHub: "https://github.com/Kanduku/Nagendra",
+  linkedIn: "https://www.linkedin.com/in/kankukuru-nagendra-kumar/",
   leetcode: "https://leetcode.com/u/sahilrawat21021663/",
 };
 
